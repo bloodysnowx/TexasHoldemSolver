@@ -1,6 +1,6 @@
 # TexasHoldemSolver
 
-No-limit 6-handed Texas Hold'em Solver using Deep CFR in Python.
+A simplified no-limit 6-handed Texas Hold'em solver using Deep CFR in Python.
 
 ## Installation
 
